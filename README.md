@@ -1,2 +1,2 @@
 # MusicKeyboard
-Very simple Music Keyboard using paper.js and howler.js
+Simple Music Keyboard using Javascript, paper.js, howler.js, Canvas and Html
