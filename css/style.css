@@ -1,0 +1,12 @@
+body {
+  background-color: #fefefe;
+}
+
+canvas {
+  width: 100%;
+}
+
+h2{
+  color: grey;
+  text-align: center;
+}
